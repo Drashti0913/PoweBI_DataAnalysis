@@ -28,8 +28,5 @@ Contributions are welcome! Please open an issue to report bugs or suggest new fe
 - The Sales Dashboard template was adapted from [Power BI Templates](https://powerbi.microsoft.com/en-us/industries/retail/)
 - Special thanks to John Doe for providing valuable feedback and suggestions.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 For questions or feedback, please contact: drashtibhavsar09@gmail.com
