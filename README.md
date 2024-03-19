@@ -1,1 +1,6 @@
 # PoweBI_DataAnalysis
+Key Features:
+
+Interactive Visualizations: The dashboard offers interactive charts and graphs that enable users to explore data dynamically and gain insights into attrition trends. Employee Demographics: Detailed breakdowns of employee demographics including age, gender, and department provide a deeper understanding of attrition patterns across different segments. Drill-Down Functionality: Users can drill down into specific departments, locations, or job roles to analyze attrition at a granular level and identify potential areas for intervention. User-Friendly Interface: The dashboard is designed with a user-friendly interface, making it accessible for HR professionals, managers, and stakeholders to navigate and utilize effectively. Customizable Reports: The dashboard is customizable to accommodate specific organizational needs, allowing users to tailor reports and visualizations according to their requirements.
+
+This repository serves as a valuable resource for HR professionals, data analysts, and organizations seeking to understand and mitigate employee attrition effectively using data-driven insights and Power BI's visualization capabilities. Contributions and feedback are welcome to enhance the functionality and usability of the dashboard.
