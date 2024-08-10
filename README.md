@@ -22,7 +22,7 @@ This Power BI project visualizes sales data for a fictional retail company, prov
 
 
 ## Result
-![Screenshot 2023-12-29 201134](https://github.com/Drashti0913/PoweBI_DataAnalysis/assets/89067080/1c11ed18-2c9c-465b-85b0-6fe941c90e51)# Power BI Data Visualization Project
+![Screenshot 2023-12-29 201134](https://github.com/Drashti0913/PoweBI_DataAnalysis/assets/89067080/1c11ed18-2c9c-465b-85b0-6fe941c90e51)
 ## Contributing
 Contributions are welcome! Please open an issue to report bugs or suggest new features. Pull requests are also encouraged.
 
